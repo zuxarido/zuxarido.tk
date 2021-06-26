@@ -6,4 +6,4 @@ Will be constantly making changes and plans include but are not limited to
 <br>3)creating a light mode color scheme.<br>
                                            
 
-http://www.zuxarido.tk
+www.zuxarido.tk
