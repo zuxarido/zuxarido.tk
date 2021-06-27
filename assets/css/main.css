@@ -5,9 +5,9 @@ a:visited {
   color: #f8f8ff;
 }
  a:focus {
-  color: #282828;
+  color: #fff;
 }
 
 a:active, a:focus {
-        color: #282828;
+        color: #fff;
 }
